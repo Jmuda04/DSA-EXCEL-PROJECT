@@ -37,5 +37,26 @@ Focus on High-Engagement Products: Promote and stock items with high rating coun
 Optimize Discounts: Discounts between 30–50% showed healthy performance without excessive revenue loss.
 
 Category Refinement: Streamline product categories for better tracking and reporting, as some products appear in multiple similar categories.
+# 📊 DSA Excel and SQL Projects
 
+This repository contains two projects
+
+## 1️⃣ Excel Project – Amazon Case Study
+
+📁 Folder: [`Excel_Project`](./Excel_Project)
+
+- Tool: Microsoft Excel
+- Focus: Product sales, discounts, and revenue analysis
+- 📄 [See README](./Excel_Project/README.md)
+
+---
+
+## 2️⃣ SQL Project – KMS Sales Analysis
+
+📁 Folder: [`SQL_Project`](./SQL_Project)
+
+- Tool: SQL (SSMS)
+- Focus: Sales performance, shipping cost, customer analysis
+- 📄 [See README](./SQL_Project/README)
+- 
 Revenue Tracking: Continue to monitor potential revenue by using a metric that combines customer engagement and discounted price.
